@@ -1,4 +1,4 @@
-# scyther_sc_protocol
+# Scyther code for "A DLT-based Smart Contract Architecture forAtomic and Scalable Trading"
 License: CC-BY-4.0
 
 This repository contains the Scyther code for the paper: A DLT-based Smart Contract Architecture forAtomic and Scalable Trading.
